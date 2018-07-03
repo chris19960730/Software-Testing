@@ -48,7 +48,7 @@ This project is suitable for task assignment and team management in all situatio
 
 
 
-######special thanks to QIU's technical support.
+###### special thanks to QIU's technical support.
 
 
 
