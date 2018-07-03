@@ -48,7 +48,7 @@ This project is suitable for task assignment and team management in all situatio
 
 
 
-###### special thanks to [Qiu's](https://github.com/ecnelises) technical support.
+###### special thanks to [Qiu](https://github.com/ecnelises)'s technical support.
 
 
 
